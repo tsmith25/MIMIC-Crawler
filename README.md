@@ -28,7 +28,8 @@ A Java runtime must be installed. In the window, select:
 
 The patient data file must have a header row and at least four columns:
 
-| -1- | -2- | -3- | -4- |
+| Column | Content | Example |
+| --- | --- | --- |
 | 1 | Patient identifier | `12345` |
 | 2 | Any other patient or encounter field | `encounter-1` |
 | 3 | Any other patient or encounter field | `2026-01-15` |
