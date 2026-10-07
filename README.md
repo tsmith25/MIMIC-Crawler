@@ -100,10 +100,9 @@ part of the diagnosis-code list, not extra output columns.
   a separate psychosis code and substance-use code does not by itself set the
   flag.
 - The bundled ICD-10-CM entries are based on the 2026 code set. ICD-9-CM family
-  entries use patterns. Diagnosis-code lists are screening inputs, not a
-  substitute for professional coding or clinical review; check that the code
-  systems and code-set versions match your source data.
+  entries use patterns.
 - The output path must be different from all input paths.
+
 
 
 *This code and all included material were created by Theresa Smith, including use of AI tools, for the use of the GPF Foundation.*

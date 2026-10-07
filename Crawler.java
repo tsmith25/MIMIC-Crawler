@@ -173,8 +173,8 @@ public class Crawler {
                                 "Created output with " + result.getWrittenPatientCount()
                                         + " patient identifiers.",
                                 "Filtering complete", JOptionPane.INFORMATION_MESSAGE);
-                    } 
-                   
+                        JOptionPane.showMessageDialog(frame, "Take output patient identifiers from CSV and use in Excel to filter MIMIC-IV discharge notes set", "Instructions", JOptionPane.INFORMATION_MESSAGE);
+                        }
                     // Error handling stuff, doesnt matter too much
                     catch (InterruptedException exception) {
                         // Preserve the thread's interruption status for any code above us.
